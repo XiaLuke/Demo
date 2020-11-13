@@ -1,0 +1,4 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">My Application</string>
+    <string name="hobbit_info">选择的兴趣为:<xliff:g id="hobbit1">%s</xliff:g></string>
+</resources>
